@@ -1,0 +1,2 @@
+# casobad
+Fjsh Bot Discord
